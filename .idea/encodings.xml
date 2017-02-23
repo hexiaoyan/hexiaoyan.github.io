@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/404.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gemfile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/README_en.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_config.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_drafts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_includes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_layouts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_plugins" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_posts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/about" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/archives" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/atom.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/categories" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rss.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sitemap.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tags" charset="UTF-8" />
+  </component>
+</project>
